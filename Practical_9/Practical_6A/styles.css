@@ -1,0 +1,22 @@
+header{
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+}
+
+#form1{
+  margin: 30px;
+}
+
+h1{
+  font-family: cursive;
+  color: rgb(210,105,30);
+}
+
+.img{
+  color:red;
+}
+.text{
+  height: auto;
+  max-width: 300px;
+}
